@@ -18,4 +18,4 @@ gem 'htmlentities'
 
 gem 'therubyracer'
 
-gem 'rake'
+gem 'rake', '>= 12.3.3'
